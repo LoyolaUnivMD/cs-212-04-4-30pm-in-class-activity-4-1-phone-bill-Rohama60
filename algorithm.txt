@@ -1,1 +1,8 @@
-THINK before you code...
+Prompt the user to enter the package type (Green, Blue, or Purple)
+Read the package type input from the user
+Prompt the user to enter the data used
+Read the data used input from the user
+Prompt the user to enter if they have a coupon (true or false)
+Read the coupon input from the user
+Calculate the final amount due by calling the calculateBill method with the package type, data used, and coupon as parameters
+Display the final amount due to the user
